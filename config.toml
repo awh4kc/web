@@ -1,4 +1,4 @@
-baseurl = "http://awh4kc.github.io"
+baseurl = "https://awh4kc.github.io"
 title = "Alex Hicks"
 
 theme = "hugo-coder"

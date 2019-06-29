@@ -3,4 +3,5 @@ title = "Contact"
 slug = "contact"
 +++
 
-Follow me, @johndoe.
+Contact me, awh4kc(at)virginia(dot)edu
+

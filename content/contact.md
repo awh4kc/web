@@ -3,5 +3,4 @@ title = "Contact"
 slug = "contact"
 +++
 
-Contact me, awh4kc(at)virginia(dot)edu
-
+Feel free to reach out! Here is my [email](mailto:awh4kc@virginia.edu)

@@ -21,7 +21,7 @@ disqusShortname = "alex"
     keywords = "developer,personal"
     info = "Aspiring Software Engineer"
     avatarurl = "images/smallme.jpg"
-    footercontent = "YEET"
+    footercontent = ""
 
     dateformat = "January 2, 2006"
 
@@ -41,7 +41,7 @@ disqusShortname = "alex"
 
     # Custom CSS
     custom_css = []
-    
+
     # Custom JS
     custom_js = []
 
@@ -66,17 +66,16 @@ disqusShortname = "alex"
         languagename = "English"
 
         [[languages.en.menu.main]]
-        name = "About"
+        name = "About Me"
         weight = 1
         url = "/about/"
 
         [[languages.en.menu.main]]
-        name = "Blog"
+        name = "Other Resources"
         weight = 2
         url = "/posts/"
-
         [[languages.en.menu.main]]
-        name = "Contact me"
-        weight = 5
+        name = "Contact Me"
+        weight = 3
         url = "/contact/"
 

@@ -13,7 +13,7 @@ git add .
 # Commit changes.
 msg="rebuilding site `date`"
 if [ $# -eq 2 ]
-  then msg="$1"
+  then msg="$2"
 fi
 git commit -m "$msg"
 
